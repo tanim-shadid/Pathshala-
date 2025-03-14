@@ -1,0 +1,477 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Pathshala\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F562998-0718-48C4-8F97-B49B04472CF5}|Pathshala\\Pathshala.csproj|C:\\Users\\User\\source\\repos\\Pathshala\\pathshala\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5F562998-0718-48C4-8F97-B49B04472CF5}|Pathshala\\Pathshala.csproj|solutionrelative:pathshala\\homepage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F562998-0718-48C4-8F97-B49B04472CF5}|Pathshala\\Pathshala.csproj|c:\\users\\user\\source\\repos\\pathshala\\pathshala\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5F562998-0718-48C4-8F97-B49B04472CF5}|Pathshala\\Pathshala.csproj|solutionrelative:pathshala\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F562998-0718-48C4-8F97-B49B04472CF5}|Pathshala\\Pathshala.csproj|C:\\Users\\User\\source\\repos\\Pathshala\\pathshala\\userprofile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F562998-0718-48C4-8F97-B49B04472CF5}|Pathshala\\Pathshala.csproj|solutionrelative:pathshala\\userprofile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F562998-0718-48C4-8F97-B49B04472CF5}|Pathshala\\Pathshala.csproj|C:\\Users\\User\\source\\repos\\Pathshala\\pathshala\\userprofile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5F562998-0718-48C4-8F97-B49B04472CF5}|Pathshala\\Pathshala.csproj|solutionrelative:pathshala\\userprofile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F562998-0718-48C4-8F97-B49B04472CF5}|Pathshala\\Pathshala.csproj|c:\\users\\user\\source\\repos\\pathshala\\pathshala\\userlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5F562998-0718-48C4-8F97-B49B04472CF5}|Pathshala\\Pathshala.csproj|solutionrelative:pathshala\\userlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F562998-0718-48C4-8F97-B49B04472CF5}|Pathshala\\Pathshala.csproj|C:\\Users\\User\\source\\repos\\Pathshala\\pathshala\\aboutus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5F562998-0718-48C4-8F97-B49B04472CF5}|Pathshala\\Pathshala.csproj|solutionrelative:pathshala\\aboutus.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F562998-0718-48C4-8F97-B49B04472CF5}|Pathshala\\Pathshala.csproj|C:\\Users\\User\\source\\repos\\Pathshala\\pathshala\\adminbookissuing.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F562998-0718-48C4-8F97-B49B04472CF5}|Pathshala\\Pathshala.csproj|solutionrelative:pathshala\\adminbookissuing.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F562998-0718-48C4-8F97-B49B04472CF5}|Pathshala\\Pathshala.csproj|C:\\Users\\User\\source\\repos\\Pathshala\\pathshala\\adminbookinventory.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F562998-0718-48C4-8F97-B49B04472CF5}|Pathshala\\Pathshala.csproj|solutionrelative:pathshala\\adminbookinventory.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F562998-0718-48C4-8F97-B49B04472CF5}|Pathshala\\Pathshala.csproj|C:\\Users\\User\\source\\repos\\Pathshala\\pathshala\\adminbookinventory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5F562998-0718-48C4-8F97-B49B04472CF5}|Pathshala\\Pathshala.csproj|solutionrelative:pathshala\\adminbookinventory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F562998-0718-48C4-8F97-B49B04472CF5}|Pathshala\\Pathshala.csproj|c:\\users\\user\\source\\repos\\pathshala\\pathshala\\adminpublishermanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5F562998-0718-48C4-8F97-B49B04472CF5}|Pathshala\\Pathshala.csproj|solutionrelative:pathshala\\adminpublishermanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F562998-0718-48C4-8F97-B49B04472CF5}|Pathshala\\Pathshala.csproj|C:\\Users\\User\\source\\repos\\Pathshala\\pathshala\\adminmembermanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5F562998-0718-48C4-8F97-B49B04472CF5}|Pathshala\\Pathshala.csproj|solutionrelative:pathshala\\adminmembermanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F562998-0718-48C4-8F97-B49B04472CF5}|Pathshala\\Pathshala.csproj|C:\\Users\\User\\source\\repos\\Pathshala\\pathshala\\viewbooks.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F562998-0718-48C4-8F97-B49B04472CF5}|Pathshala\\Pathshala.csproj|solutionrelative:pathshala\\viewbooks.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F562998-0718-48C4-8F97-B49B04472CF5}|Pathshala\\Pathshala.csproj|C:\\Users\\User\\source\\repos\\Pathshala\\pathshala\\site1.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F562998-0718-48C4-8F97-B49B04472CF5}|Pathshala\\Pathshala.csproj|solutionrelative:pathshala\\site1.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F562998-0718-48C4-8F97-B49B04472CF5}|Pathshala\\Pathshala.csproj|C:\\Users\\User\\source\\repos\\Pathshala\\pathshala\\usersignup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F562998-0718-48C4-8F97-B49B04472CF5}|Pathshala\\Pathshala.csproj|solutionrelative:pathshala\\usersignup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F562998-0718-48C4-8F97-B49B04472CF5}|Pathshala\\Pathshala.csproj|C:\\Users\\User\\source\\repos\\Pathshala\\pathshala\\userlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F562998-0718-48C4-8F97-B49B04472CF5}|Pathshala\\Pathshala.csproj|solutionrelative:pathshala\\userlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F562998-0718-48C4-8F97-B49B04472CF5}|Pathshala\\Pathshala.csproj|C:\\Users\\User\\source\\repos\\Pathshala\\pathshala\\adminmembermanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F562998-0718-48C4-8F97-B49B04472CF5}|Pathshala\\Pathshala.csproj|solutionrelative:pathshala\\adminmembermanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F562998-0718-48C4-8F97-B49B04472CF5}|Pathshala\\Pathshala.csproj|C:\\Users\\User\\source\\repos\\Pathshala\\pathshala\\adminauthormanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F562998-0718-48C4-8F97-B49B04472CF5}|Pathshala\\Pathshala.csproj|solutionrelative:pathshala\\adminauthormanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F562998-0718-48C4-8F97-B49B04472CF5}|Pathshala\\Pathshala.csproj|C:\\Users\\User\\source\\repos\\Pathshala\\pathshala\\adminbookissuing.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5F562998-0718-48C4-8F97-B49B04472CF5}|Pathshala\\Pathshala.csproj|solutionrelative:pathshala\\adminbookissuing.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F562998-0718-48C4-8F97-B49B04472CF5}|Pathshala\\Pathshala.csproj|c:\\users\\user\\source\\repos\\pathshala\\pathshala\\adminpublishermanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F562998-0718-48C4-8F97-B49B04472CF5}|Pathshala\\Pathshala.csproj|solutionrelative:pathshala\\adminpublishermanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F562998-0718-48C4-8F97-B49B04472CF5}|Pathshala\\Pathshala.csproj|C:\\Users\\User\\source\\repos\\Pathshala\\pathshala\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{5F562998-0718-48C4-8F97-B49B04472CF5}|Pathshala\\Pathshala.csproj|solutionrelative:pathshala\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F562998-0718-48C4-8F97-B49B04472CF5}|Pathshala\\Pathshala.csproj|C:\\Users\\User\\source\\repos\\Pathshala\\pathshala\\adminlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F562998-0718-48C4-8F97-B49B04472CF5}|Pathshala\\Pathshala.csproj|solutionrelative:pathshala\\adminlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F562998-0718-48C4-8F97-B49B04472CF5}|Pathshala\\Pathshala.csproj|c:\\users\\user\\source\\repos\\pathshala\\pathshala\\adminauthormanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5F562998-0718-48C4-8F97-B49B04472CF5}|Pathshala\\Pathshala.csproj|solutionrelative:pathshala\\adminauthormanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F562998-0718-48C4-8F97-B49B04472CF5}|Pathshala\\Pathshala.csproj|C:\\Users\\User\\source\\repos\\Pathshala\\pathshala\\viewbooks.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5F562998-0718-48C4-8F97-B49B04472CF5}|Pathshala\\Pathshala.csproj|solutionrelative:pathshala\\viewbooks.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F562998-0718-48C4-8F97-B49B04472CF5}|Pathshala\\Pathshala.csproj|C:\\Users\\User\\source\\repos\\Pathshala\\pathshala\\viewbooks.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F562998-0718-48C4-8F97-B49B04472CF5}|Pathshala\\Pathshala.csproj|solutionrelative:pathshala\\viewbooks.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F562998-0718-48C4-8F97-B49B04472CF5}|Pathshala\\Pathshala.csproj|C:\\Users\\User\\source\\repos\\Pathshala\\pathshala\\terms.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5F562998-0718-48C4-8F97-B49B04472CF5}|Pathshala\\Pathshala.csproj|solutionrelative:pathshala\\terms.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F562998-0718-48C4-8F97-B49B04472CF5}|Pathshala\\Pathshala.csproj|C:\\Users\\User\\source\\repos\\Pathshala\\pathshala\\usersignup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5F562998-0718-48C4-8F97-B49B04472CF5}|Pathshala\\Pathshala.csproj|solutionrelative:pathshala\\usersignup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F562998-0718-48C4-8F97-B49B04472CF5}|Pathshala\\Pathshala.csproj|C:\\Users\\User\\source\\repos\\Pathshala\\pathshala\\adminlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5F562998-0718-48C4-8F97-B49B04472CF5}|Pathshala\\Pathshala.csproj|solutionrelative:pathshala\\adminlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "adminbookissuing.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pathshala\\Pathshala\\adminbookissuing.aspx.cs",
+              "RelativeDocumentMoniker": "Pathshala\\adminbookissuing.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Pathshala\\Pathshala\\adminbookissuing.aspx.cs",
+              "RelativeToolTip": "Pathshala\\adminbookissuing.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T02:54:05.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "homepage.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pathshala\\Pathshala\\homepage.aspx",
+              "RelativeDocumentMoniker": "Pathshala\\homepage.aspx",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Pathshala\\Pathshala\\homepage.aspx",
+              "RelativeToolTip": "Pathshala\\homepage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-12T13:35:18.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "userlogin.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pathshala\\Pathshala\\userlogin.aspx",
+              "RelativeDocumentMoniker": "Pathshala\\userlogin.aspx",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Pathshala\\Pathshala\\userlogin.aspx",
+              "RelativeToolTip": "Pathshala\\userlogin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-13T06:20:42.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "userprofile.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pathshala\\Pathshala\\userprofile.aspx",
+              "RelativeDocumentMoniker": "Pathshala\\userprofile.aspx",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Pathshala\\Pathshala\\userprofile.aspx",
+              "RelativeToolTip": "Pathshala\\userprofile.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-27T07:53:16.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "userprofile.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pathshala\\Pathshala\\userprofile.aspx.cs",
+              "RelativeDocumentMoniker": "Pathshala\\userprofile.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Pathshala\\Pathshala\\userprofile.aspx.cs",
+              "RelativeToolTip": "Pathshala\\userprofile.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T17:15:12.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AboutUs.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pathshala\\Pathshala\\AboutUs.aspx",
+              "RelativeDocumentMoniker": "Pathshala\\AboutUs.aspx",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Pathshala\\Pathshala\\AboutUs.aspx",
+              "RelativeToolTip": "Pathshala\\AboutUs.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-13T03:06:48.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pathshala\\Pathshala\\Web.config",
+              "RelativeDocumentMoniker": "Pathshala\\Web.config",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Pathshala\\Pathshala\\Web.config",
+              "RelativeToolTip": "Pathshala\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-12T13:03:19.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "adminbookinventory.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pathshala\\Pathshala\\adminbookinventory.aspx.cs",
+              "RelativeDocumentMoniker": "Pathshala\\adminbookinventory.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Pathshala\\Pathshala\\adminbookinventory.aspx.cs",
+              "RelativeToolTip": "Pathshala\\adminbookinventory.aspx.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAwwBABAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T16:46:16.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "adminbookinventory.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pathshala\\Pathshala\\adminbookinventory.aspx",
+              "RelativeDocumentMoniker": "Pathshala\\adminbookinventory.aspx",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Pathshala\\Pathshala\\adminbookinventory.aspx",
+              "RelativeToolTip": "Pathshala\\adminbookinventory.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-12T11:36:51.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "adminpublishermanagement.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pathshala\\Pathshala\\adminpublishermanagement.aspx",
+              "RelativeDocumentMoniker": "Pathshala\\adminpublishermanagement.aspx",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Pathshala\\Pathshala\\adminpublishermanagement.aspx",
+              "RelativeToolTip": "Pathshala\\adminpublishermanagement.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-13T06:24:52.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "adminmembermanagement.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pathshala\\Pathshala\\adminmembermanagement.aspx",
+              "RelativeDocumentMoniker": "Pathshala\\adminmembermanagement.aspx",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Pathshala\\Pathshala\\adminmembermanagement.aspx",
+              "RelativeToolTip": "Pathshala\\adminmembermanagement.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-12T11:32:00.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "viewbooks.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pathshala\\Pathshala\\viewbooks.aspx.cs",
+              "RelativeDocumentMoniker": "Pathshala\\viewbooks.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Pathshala\\Pathshala\\viewbooks.aspx.cs",
+              "RelativeToolTip": "Pathshala\\viewbooks.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T16:28:26.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Site1.Master.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pathshala\\Pathshala\\Site1.Master.cs",
+              "RelativeDocumentMoniker": "Pathshala\\Site1.Master.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Pathshala\\Pathshala\\Site1.Master.cs",
+              "RelativeToolTip": "Pathshala\\Site1.Master.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T17:18:52.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "usersignup.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pathshala\\Pathshala\\usersignup.aspx.cs",
+              "RelativeDocumentMoniker": "Pathshala\\usersignup.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Pathshala\\Pathshala\\usersignup.aspx.cs",
+              "RelativeToolTip": "Pathshala\\usersignup.aspx.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T17:18:36.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "userlogin.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pathshala\\Pathshala\\userlogin.aspx.cs",
+              "RelativeDocumentMoniker": "Pathshala\\userlogin.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Pathshala\\Pathshala\\userlogin.aspx.cs",
+              "RelativeToolTip": "Pathshala\\userlogin.aspx.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwDYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T14:55:21.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "adminmembermanagement.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pathshala\\Pathshala\\adminmembermanagement.aspx.cs",
+              "RelativeDocumentMoniker": "Pathshala\\adminmembermanagement.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Pathshala\\Pathshala\\adminmembermanagement.aspx.cs",
+              "RelativeToolTip": "Pathshala\\adminmembermanagement.aspx.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAwwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T16:32:06.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "adminauthormanagement.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pathshala\\Pathshala\\adminauthormanagement.aspx.cs",
+              "RelativeDocumentMoniker": "Pathshala\\adminauthormanagement.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Pathshala\\Pathshala\\adminauthormanagement.aspx.cs",
+              "RelativeToolTip": "Pathshala\\adminauthormanagement.aspx.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwCEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T15:37:01.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "adminbookissuing.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pathshala\\Pathshala\\adminbookissuing.aspx",
+              "RelativeDocumentMoniker": "Pathshala\\adminbookissuing.aspx",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Pathshala\\Pathshala\\adminbookissuing.aspx",
+              "RelativeToolTip": "Pathshala\\adminbookissuing.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-12T11:26:35.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "adminpublishermanagement.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pathshala\\Pathshala\\adminpublishermanagement.aspx.cs",
+              "RelativeDocumentMoniker": "Pathshala\\adminpublishermanagement.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Pathshala\\Pathshala\\adminpublishermanagement.aspx.cs",
+              "RelativeToolTip": "Pathshala\\adminpublishermanagement.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T06:22:57.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "adminlogin.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pathshala\\Pathshala\\adminlogin.aspx.cs",
+              "RelativeDocumentMoniker": "Pathshala\\adminlogin.aspx.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Pathshala\\Pathshala\\adminlogin.aspx.cs",
+              "RelativeToolTip": "Pathshala\\adminlogin.aspx.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwCgAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T15:02:17.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Site1.Master",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pathshala\\Pathshala\\Site1.Master",
+              "RelativeDocumentMoniker": "Pathshala\\Site1.Master",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Pathshala\\Pathshala\\Site1.Master",
+              "RelativeToolTip": "Pathshala\\Site1.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-12T16:27:51.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "adminauthormanagement.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pathshala\\Pathshala\\adminauthormanagement.aspx",
+              "RelativeDocumentMoniker": "Pathshala\\adminauthormanagement.aspx",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Pathshala\\Pathshala\\adminauthormanagement.aspx",
+              "RelativeToolTip": "Pathshala\\adminauthormanagement.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-13T06:21:33.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "viewbooks.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pathshala\\Pathshala\\viewbooks.aspx",
+              "RelativeDocumentMoniker": "Pathshala\\viewbooks.aspx",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Pathshala\\Pathshala\\viewbooks.aspx",
+              "RelativeToolTip": "Pathshala\\viewbooks.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-12T16:25:30.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "viewbooks.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pathshala\\Pathshala\\viewbooks.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Pathshala\\viewbooks.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Pathshala\\Pathshala\\viewbooks.aspx.designer.cs",
+              "RelativeToolTip": "Pathshala\\viewbooks.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T05:25:16.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Terms.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pathshala\\Pathshala\\Terms.aspx",
+              "RelativeDocumentMoniker": "Pathshala\\Terms.aspx",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Pathshala\\Pathshala\\Terms.aspx",
+              "RelativeToolTip": "Pathshala\\Terms.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-13T03:08:47.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "usersignup.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pathshala\\Pathshala\\usersignup.aspx",
+              "RelativeDocumentMoniker": "Pathshala\\usersignup.aspx",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Pathshala\\Pathshala\\usersignup.aspx",
+              "RelativeToolTip": "Pathshala\\usersignup.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-12T14:00:29.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "adminlogin.aspx",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Pathshala\\Pathshala\\adminlogin.aspx",
+              "RelativeDocumentMoniker": "Pathshala\\adminlogin.aspx",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Pathshala\\Pathshala\\adminlogin.aspx",
+              "RelativeToolTip": "Pathshala\\adminlogin.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-27T07:53:41.314Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
