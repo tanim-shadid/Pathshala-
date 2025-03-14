@@ -1,5 +1,5 @@
 # Pathshala
-Pathshala is an library management system software.It helps libraries manage their resources efficiently. It automates tasks like book inventory,book issuing, member management, author management.
+Pathshala is an library management system software.It helps libraries manage their resources efficiently. It automates tasks like book inventory,book issuing, member management and author management.
 
 ## FEATURES-
 
@@ -11,3 +11,6 @@ Pathshala is an library management system software.It helps libraries manage the
 6. Author Details
 7. Publisher management
 8. Publisher Details
+
+## How To Run
+First download the Pathsala folder and paste the folder to xampp>htdocs.Then run the xampp server and open any folder using localhost/Pathshala/
